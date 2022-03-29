@@ -1,1 +1,2 @@
-# [rsschool-cv](https://agletd.github.io/rsschool-cv/cv)
+# rsschool-cv
+https://agletd.github.io/rsschool-cv/
